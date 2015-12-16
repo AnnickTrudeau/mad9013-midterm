@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: grey;
+}
+
+#wrapper {
+  width: 1600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Inconsolata', ;
+  font-size: 1.5rem;
+  color: purple;
+}
+
+nav {
+  font-family: 'Inconsolata', ;
+  font-size: 1rem;
+  width: 25%;
+  padding: 2rem;
+  float: left;
+}
+
+main {
+  font-family: 'Inconsolata', ;
+  font-size: 1.5rem;
+  width: 35%;
+  text-align: justify;
+  float: left;
+  padding: 2rem;
+  overflow: scroll;
+  color: turquoise;
+}
+
+aside {
+  font-family: 'Inconsolata', ;
+  font-size: 1.5rem;
+  width: 35%;
+  float: right;
+  text-align: justify;
+  padding: 2rem;
+  color: turquoise;
+}
+
+footer {
+  font-family: 'Inconsolata', ;
+  font-size: 1rem;
+  clear: both;
+  color: purple;
+}
