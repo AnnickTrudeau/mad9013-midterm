@@ -1,0 +1,39 @@
+/*Mobile*/
+h1 {
+  text-align: center;
+  font-family: 'Inconsolata', ;
+  font-size: 0.8rem; 
+  color: purple;
+}
+
+body {
+  background-color: grey;
+}
+
+nav {
+  font-family: 'Inconsolata', ;
+  font-size: 0.8rem;
+}
+
+nav ul li {
+  text-align: center;
+  list-style-type: none;
+}
+
+main {
+  font-family: 'Inconsolata', ;
+  font-size: 0.8rem;
+  color: turquoise;
+}
+
+aside {
+  font-family: 'Inconsolata', ;
+  font-size: 0.8rem;
+  color: turquoise;
+}
+
+footer {
+  font-family: 'Inconsolata', ;
+  font-size: 0.8rem;
+  color: purple;
+}
